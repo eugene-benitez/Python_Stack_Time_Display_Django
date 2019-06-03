@@ -1,0 +1,32 @@
+.clock {
+    border: 2px solid black;
+    display: inline-block;
+    position: relative;
+    padding: 10px;
+    margin: 0 auto;
+    top: 400px;
+    left: 16%;
+    right: auto;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: auto;
+    height: 100%;
+    max-height: auto;
+    position: absolute;
+    margin: 0 auto;
+    background-color: linen;
+}
+
+.header {
+    border: 2px solid black;
+    display: inline-block;
+    position: relative;
+    padding: 10px;
+    margin: 0 auto;
+    top: 200px;
+    left: 45%;
+    right: auto;
+
+}
